@@ -1,0 +1,1 @@
+# visioncarat-assets
