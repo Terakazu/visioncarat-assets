@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   sodipodi:docname="ロゴ.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.49932309"
+     inkscape:cx="1060.4356"
+     inkscape:cy="399.54091"
+     inkscape:window-width="2256"
+     inkscape:window-height="1398"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1"
+       style="stroke:#ffffff;stroke-opacity:0.798387"
+       transform="translate(1.0597681,10.597681)">
+      <g
+         id="g2"
+         style="stroke:#ffffff"
+         inkscape:label="g2">
+        <text
+           xml:space="preserve"
+           style="font-size:50.8px;fill:#ff00ff;stroke:#ff00ff;stroke-width:0.565;stroke-dasharray:none;stroke-opacity:0.798387"
+           x="21.19536"
+           y="105.18198"
+           id="text1"><tspan
+             sodipodi:role="line"
+             id="tspan1"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;font-family:HGPMinchoB;-inkscape-font-specification:HGPMinchoB;fill:#ff00ff;fill-opacity:1;stroke:#ff00ff;stroke-width:0.565;stroke-dasharray:none;stroke-opacity:0.798387"
+             x="21.19536"
+             y="105.18198">VisionCarat</tspan></text>
+      </g>
+    </g>
+    <circle
+       id="path1"
+       style="fill:#ff00ff;stroke:#ff00ff;stroke-width:0.264583"
+       cx="143.33362"
+       cy="106.77163"
+       r="0.035290018" />
+    <circle
+       id="path2"
+       style="fill:#ff00ff;stroke:#dc00ff;stroke-width:0.264583;stroke-opacity:1"
+       cx="145.98305"
+       cy="148.36754"
+       inkscape:label="path2"
+       r="0.035290018" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff00ff;fill-opacity:1;stroke:#ff00ff;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:0.798387"
+       id="path4-9"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="56.697594"
+       sodipodi:cy="46.629791"
+       sodipodi:r1="7.0695348"
+       sodipodi:r2="3.5347679"
+       sodipodi:arg1="0.22679885"
+       sodipodi:arg2="0.85511738"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 63.586086,48.219443 -4.569225,1.077854 -1.702455,4.375069 -2.437068,-4.012516 -4.687026,-0.26716 3.063035,-3.557725 -1.194287,-4.540184 4.330128,1.813722 3.948916,-2.538828 -0.386869,4.678667 z"
+       inkscape:transform-center-x="-0.19060475"
+       inkscape:transform-center-y="0.49122892"
+       transform="translate(43.328402,33.8436)" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff00ff;fill-opacity:1;stroke:#ff00ff;stroke-width:0.564999;stroke-dasharray:none;stroke-opacity:0.798387"
+       id="path4"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="56.697594"
+       sodipodi:cy="46.629791"
+       sodipodi:r1="7.0695348"
+       sodipodi:r2="3.5347679"
+       sodipodi:arg1="0.22679885"
+       sodipodi:arg2="0.85511738"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 63.586086,48.219443 -4.569225,1.077854 -1.702455,4.375069 -2.437068,-4.012516 -4.687026,-0.26716 3.063035,-3.557725 -1.194287,-4.540184 4.330128,1.813722 3.948916,-2.538828 -0.386869,4.678667 z"
+       inkscape:transform-center-x="-0.19060475"
+       inkscape:transform-center-y="0.49122892"
+       transform="translate(8.8278339,33.859381)"
+       inkscape:export-filename="ロゴ.jpg"
+       inkscape:export-xdpi="673.53235"
+       inkscape:export-ydpi="673.53235" />
+  </g>
+</svg>
